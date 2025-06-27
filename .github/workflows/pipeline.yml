@@ -1,5 +1,5 @@
 
-name: CI Pipeline - Validação 
+name: CI Pipeline - Validação Teste Pull 
 on: [push, pull_request]
 
 jobs:
